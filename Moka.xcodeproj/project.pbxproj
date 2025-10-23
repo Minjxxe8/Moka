@@ -175,7 +175,7 @@
 				};
 			};
 			buildConfigurationList = E03054CC2EA38DA500579A22 /* Build configuration list for PBXProject "Moka" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (

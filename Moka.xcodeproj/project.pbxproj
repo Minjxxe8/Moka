@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
@@ -30,21 +30,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E03054D32EA38DA500579A22 /* Moka */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Moka;
-			sourceTree = "<group>";
-		};
-		E03054E52EA38DAB00579A22 /* MokaTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MokaTests;
-			sourceTree = "<group>";
-		};
-		E03054EF2EA38DAB00579A22 /* MokaUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MokaUITests;
-			sourceTree = "<group>";
-		};
+		E03054D32EA38DA500579A22 /* Moka */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Moka; sourceTree = "<group>"; };
+		E03054E52EA38DAB00579A22 /* MokaTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = MokaTests; sourceTree = "<group>"; };
+		E03054EF2EA38DAB00579A22 /* MokaUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = MokaUITests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +175,7 @@
 				};
 			};
 			buildConfigurationList = E03054CC2EA38DA500579A22 /* Build configuration list for PBXProject "Moka" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -195,7 +184,6 @@
 			);
 			mainGroup = E03054C82EA38DA500579A22;
 			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = E03054D22EA38DA500579A22 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
